@@ -1,0 +1,8 @@
+Criar banco de Dados [x]
+Mostrar comandos de SQL [x]
+Adicionar arquivo conexao [x]
+Mudar script de  autenticar-login para acessar banco de Dados [x]
+Mudar script de  cadastro de usuarios para acessar banco de Dados [x]
+Mudar script de  cadastro de notas para acessar banco de Dados [x]
+Adicionar script de notas-alunos [x]
+adicionar o script de historico-notas [x]
